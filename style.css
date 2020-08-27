@@ -189,7 +189,7 @@ ul{
     }
 
 }
-@media handheld {
+@media only screen and (max-width: 450px){
     .header{
         width: 100%;
     }
